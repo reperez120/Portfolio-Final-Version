@@ -84,7 +84,6 @@ p {
  }
 }
 
-
 ul {
   font-size: 30px;
   display: flex;
@@ -121,3 +120,12 @@ li {
     font-size: 25px; 
   }
  
+ .link {
+   font-weight: normal;
+   text-decoration: none;
+ }
+
+
+ .link:hover {
+   color: black; 
+ }
